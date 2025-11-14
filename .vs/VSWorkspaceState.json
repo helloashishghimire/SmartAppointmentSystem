@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Data",
+    "\\Forms",
+    "\\Models",
+    "\\obj"
+  ],
+  "SelectedNode": "\\Data\\AppDbContext.cs",
+  "PreviewInSolutionExplorer": true
+}
